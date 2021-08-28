@@ -1,2 +1,2 @@
 # hello-world
-This is basically learning repo tha I have created during git learning.
+This is basically learning repo tha I have created during git learning xD.
